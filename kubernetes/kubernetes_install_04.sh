@@ -7,4 +7,5 @@ then
 fi
 
 swapoff -a
+echo "Important... Edit /etc/fstab and comment out swap lines..."
 
